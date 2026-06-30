@@ -31,7 +31,7 @@
   "author": "Wesley Ellis",
   "license": "MIT",
   "dependencies": {
-    "axios": "^1.6.7",
+    "axios": "^1.16.0",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.20.2",
     "compression": "^1.7.4",
@@ -44,15 +44,15 @@
     "jsonwebtoken": "^9.0.2",
     "morgan": "^1.10.0",
     "mssql": "^11.0.1",
-    "multer": "^2.0.2",
+    "multer": "^2.2.0",
     "node-cron": "^3.0.3",
     "prom-client": "^15.1.0",
     "redis": "^4.6.12",
-    "uuid": "^9.0.1",
+    "uuid": "^11.1.1",
     "winston": "^3.11.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.23.7",
+    "@babel/core": "^7.29.6",
     "@babel/preset-env": "^7.23.8",
     "@types/node": "^20.11.5",
     "eslint": "^8.56.0",
